@@ -1,0 +1,26 @@
+/* Write your code here. */
+
+.img-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+  
+}
+
+.images {
+  height: 70px;
+  width: 70px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.opacity {
+  opacity: 0.5;
+}
+
+button {
+  border: 0px;
+  background: transparent;
+
+}
